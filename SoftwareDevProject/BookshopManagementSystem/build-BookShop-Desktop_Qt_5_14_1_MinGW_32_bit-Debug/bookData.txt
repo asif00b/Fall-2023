@@ -1,0 +1,9 @@
+27|Matrix|Gibson|Cyberpunk||||
+14|Dune|Herbert|Sci-Fi||||
+63|Inferno|DanBrown|Thriller||||
+42|Reckoning|Atwood|Mystery||||
+88|Catalyst|Clarke|Fantasy||||
+51|Odyssey|Homer|Epic||||
+75|Gatsby|Fitzgerald|Drama||||
+42|Echoes of Eternity|Sarah Rivers|Mystery||||
+65|Dune|Frank Herbert|Fiction||||

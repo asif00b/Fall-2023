@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>resource/cancel.png</file>
+        <file>resource/delete.png</file>
+        <file>resource/edit.png</file>
+        <file>resource/save.png</file>
+        <file>resource/bg.png</file>
+    </qresource>
+</RCC>
