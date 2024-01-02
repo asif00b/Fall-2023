@@ -40,5 +40,5 @@
 ## Software Development Projects
 
 ### Bookshop Management System
-[BookshopManagementSystem](./SoftwareDevProjects/BookshopManagementSystem)
+[BookshopManagementSystem](./SoftwareDevProject/BookshopManagementSystem)
 Description: A Bookshop Management System designed to manage inventory, sales, and customer records efficiently.
